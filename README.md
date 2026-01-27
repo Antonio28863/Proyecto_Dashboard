@@ -36,7 +36,7 @@ El mes con más ventas es diciembre con un total de 251 pedidos y un beneficio d
 Cabe destacar que la categoría de deporte tiene casi un 20% de beneficio en Málaga siendo la bicicleta con 119 unidades vendidas y más de 23.000 € de beneficio el producto estrella.
 
 # Enlace a la hoja de cálculo:
-https://docs.google.com/spreadsheets/d/1UBpa5T1_Veik974gDszSI0xr91jYYdUpDGySxMCkTyM/edit?gid=1269693443#gid=1269693443
+https://docs.google.com/spreadsheets/d/1UBpa5T1_Veik974gDszSI0xr91jYYdUpDGySxMCkTyM/edit?usp=sharing
 
 # Autor:
 - Antonio Fernández
