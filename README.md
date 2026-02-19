@@ -1,4 +1,4 @@
-# Proyecto_Dahsboard
+# Proyecto_Dashboard
 Análisis de datos anuales y visualización en dashboard con google sheets.
 
 # Descripción
