@@ -31,7 +31,7 @@ Las ventas telemáticas suponen 2/3 de las ventas y el pago en efectivo solo 1/3
 
 Los productos que más beneficios otorgan son la tablet y el laptop suponiendo cada un más de 100.000 € seguidos de la lampara y la esterilla de yoga con más de 95.000 € cada una.
 
-El mes con más ventas es diciembre con un total de 251 pedidos y un beneficio de más de 132.000€, siende el mes de abril en que más beneficios se has obtenido con un total de más de 135.0000 €.
+El mes con más ventas es diciembre con un total de 251 pedidos y un beneficio de más de 132.000€. Siendo el mes de abril en el que más beneficios se han obtenido, con un total de más de 135.0000 €.
 
 Cabe destacar que la categoría de deporte tiene casi un 20% de beneficio en Málaga siendo la bicicleta con 119 unidades vendidas y más de 23.000 € de beneficio el producto estrella.
 
